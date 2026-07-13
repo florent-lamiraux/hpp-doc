@@ -103,6 +103,10 @@ repositories:
     type: git
     url: https://github.com/humanoid-path-planner/hpp-tools
     version: devel
+  src/toppra:
+    type: git
+    url: https://github.com/hungpham2511/toppra
+    version: 0.6.7
   src/hpp-toppra:
     type: git
     url: https://github.com/humanoid-path-planner/hpp-toppra
